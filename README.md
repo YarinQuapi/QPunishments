@@ -1,8 +1,8 @@
 # QPunishments
 QPunishments is a punishment system designed and developed by Quapi for maximum staff efficiency, offering a full all-in-one system including a built-in history and proof system.
-<br />
+<br /> <br />
 The system is currently developed on top of BungeeCord 1.18 and a sister Velocity 3.1.x version is in the works and will be released at some point in the future
-<br />
+<br /> <br />
 Please Note: For those who will choose to use this system instead of other older systems, as this is currently in alpha state, the chances of you encountering a lot of bugs potentially system breaking are quite high, it is possible that there aren't many bugs or risks, at least security-wise, although watch out for them and if you encounter one, report it immediately in the issues tab.
 
 ## Features
